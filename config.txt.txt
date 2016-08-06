@@ -1,4 +1,5 @@
 name=alex;
-size=100;
-e_mail:dfdk\
-telephone.
+
+size:100
+
+e-mail:sanche_77@
