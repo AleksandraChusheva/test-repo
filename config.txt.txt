@@ -1,3 +1,4 @@
 name=alex;
 size=100;
-e_mail:...
+e_mail:dfdk\
+telephone.
