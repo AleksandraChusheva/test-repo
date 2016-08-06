@@ -1,0 +1,3 @@
+name=alex;
+size=100;
+e_mail:...
